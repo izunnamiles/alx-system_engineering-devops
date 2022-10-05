@@ -5,3 +5,4 @@ Showing basic shell scripts
 4. Script that lists all files in a folder (3-listfiles)
 5. Script that lists all hidden files in a folder (4-listmorefiles)
 6. Script that lists files numerically (5-listfilesdigitonly)
+7. Script that creates a folder in tmp (6-firstdirectory)
