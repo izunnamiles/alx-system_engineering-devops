@@ -10,3 +10,4 @@ Showing basic shell scripts
 9. Script to delete a file(8-firstdelete)
 10. Script to delete a folder(9-firstdirdelete)
 11. Script to go back(10-back)
+12. Script to list files in parent directory(11-lists)
