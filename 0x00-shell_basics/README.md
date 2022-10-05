@@ -8,3 +8,4 @@ Showing basic shell scripts
 7. Script that creates a folder in tmp (6-firstdirectory)
 8. Script that moves file to tmp folder (7-movethatfile)
 9. Script to delete a file(8-firstdelete)
+10. Script to delete a folder(9-firstdirdelete)
