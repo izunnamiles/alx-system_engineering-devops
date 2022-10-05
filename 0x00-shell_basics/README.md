@@ -13,3 +13,4 @@ Showing basic shell scripts
 12. Script to list files in parent directory(11-lists)
 13. Script to get filename(12-file_type)
 14. Script to create a symbolic link(13-symbolic_link)
+14. Script to copy html files to parent directory(14-copy_html)
