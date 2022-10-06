@@ -10,3 +10,4 @@
 10. Add file permission(9-John_Doe)
 11. Add file mirror permission(10-mirror_permissions)
 12. Add directory permission (11-directories_permissions)
+13. Create and add directory permission (12-directory_permissions)
