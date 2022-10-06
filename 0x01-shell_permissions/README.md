@@ -5,3 +5,4 @@
 5. Create file empty file (4-empty)
 6. Make file executable (5-execute)
 7. Add file permission (6-multiple_permissions)
+8. Add file permission to everyone(7-everybody)
