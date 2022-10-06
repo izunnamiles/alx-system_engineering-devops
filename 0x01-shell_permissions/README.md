@@ -6,3 +6,4 @@
 6. Make file executable (5-execute)
 7. Add file permission (6-multiple_permissions)
 8. Add file permission to everyone(7-everybody)
+9. Add file permission to others(8-James_Bond)
