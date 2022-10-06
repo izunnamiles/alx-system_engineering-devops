@@ -9,3 +9,4 @@
 9. Add file permission to others(8-James_Bond)
 10. Add file permission(9-John_Doe)
 11. Add file mirror permission(10-mirror_permissions)
+12. Add directory permission (11-directories_permissions)
