@@ -5,3 +5,7 @@
 3. Write a script that displays content of /etc/passwd (2-hellofile)                                                                          
 5. Write a script that displays the last 10 lines of /etc/passwd (4-lastlines)   
 6. Write a script that displays content the first 10 lines of /etc/passwd (5-firstlines)
+7. Write a script that displays third line of a file (6-third_line)
+8. Write a script that creates  a file (7-file)
+9. Write a script that saves current state of a directory (8-cwd_state)
+10. Write a script that duplicates the last line (9-duplicate_last_line)
