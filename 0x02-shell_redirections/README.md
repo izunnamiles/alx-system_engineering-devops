@@ -1,0 +1,7 @@
+1. Write a script that displays Hello world (0-hello_world)
+2. Write a script that displays a confused (1-confused_smiley)
+3. Write a script that displays content of /etc/passwd (2-hellofile)
+4. Write a script that displays contents of /etc/passwd and /etc/host (3-twofile)
+3. Write a script that displays content of /etc/passwd (2-hellofile)                                                                          
+5. Write a script that displays the last 10 lines of /etc/passwd (4-lastlines)   
+6. Write a script that displays content the first 10 lines of /etc/passwd (5-firstlines)
